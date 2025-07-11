@@ -14,7 +14,7 @@ Before using this service, we kindly ask you to read the following information:
 このサービスではインターネット経由で日本のテレビを視聴できます。  
 ご利用前に、以下の情報をお読みください。
 
-- **リンク（例：`utako.moe`）を他のリポジトリや公共の場所でコピー・公開しないでください。**
+- **リンク（例：`utako.moe`）を他のリポジトリにコピー・公開しないでください。**
   - これは当方のサーバーです。トラフィックが集中しないよう、直接リンクの共有はご遠慮ください。
 　　- [GitHubリポジトリ](https://github.com/luongz/iptv-jp)へのリンクは許可しています。
 - **チャンネル追加のご要望には対応できません。**
@@ -37,6 +37,20 @@ Even a small contribution helps. Please consider donating if you find our servic
 
 プロジェクト維持のため、私たちは月額$120（サーバー代、TVパッケージ代を含む）を負担しています。  
 少額でもご支援いただけると大変助かります。サービスをご利用の方は、ぜひご検討ください。
+
+---
+
+Amazonギフト券での寄付も可能です。[こちら](https://www.amazon.co.jp/gp/product/B004N3APGO?th=1)
+
+もし私にギフトカードを送りたい場合は、下記の画像に表示されている私のメールアドレスをご入力ください。↓
+
+![{D52FC5D5-AE5F-492C-85FC-259AC70ACE78}](https://github.com/user-attachments/assets/eaeeae28-7b27-44c6-a0d8-f6df68a9f925)
+
+---
+
+You can donate via Ko-fi (PayPal payments, cards,..)
+
+Ko-fi経由で寄付することができます
 
 [![Donate on Ko-Fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fad2b4c413af6d15_support_me_on_kofi_badge_beige.png)](https://ko-fi.com/dinhluong)
 
